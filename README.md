@@ -1,5 +1,5 @@
-### Instructions Simplifiées pour Désinstaller un Programme
-
+### 1) Désinstaller le Programme
+```
 1. **Accéder au Dossier "1. Uninstaller"**
    - Ouvrez le dossier "1. Uninstaller".
 
@@ -28,3 +28,4 @@
      - Cliquez sur **Delete**, puis sur **Finish**.
 
 Et voilà, la désinstallation est terminée !
+```
