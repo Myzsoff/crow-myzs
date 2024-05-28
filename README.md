@@ -1,3 +1,6 @@
+```
+Redémarre ton pc que à la fin de la manipulation.
+```
 ### 1) Désinstaller le Programme
 
 1. **Accéder au Dossier "1. Uninstaller"**
@@ -57,5 +60,3 @@
    - Dans l'onglet "Sécurité", sélectionnez "Tous les packages d'application".
    - Cochez "Refuser" pour "Contrôle total" et "Lecture".
    - Répétez cette opération pour chaque appareil en vert.
-
-Et voilà, vous avez terminé les modifications des séries et des autorisations USB !
