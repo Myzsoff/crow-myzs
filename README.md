@@ -1,10 +1,3 @@
-1. Allez dans le dossier "1. Uninstaller"
-1.1 Lancer l'application "RevoUPort"
-1.2 Quand l'application est lancée, cherchez votre jeux ou autre (ex.: Valorant) et faite un double-clique dessus.
-1.3 Appuyez sur Continue > Scanning Modes > Cochez Advanced > Scan
-    Si il vous dit "Found leftover Registry items", clique sur "Select All" puis sur "Delete" et "Next" après ils y'aura un chargement ou il sera écrit Loading List vous attendez que sa se finissent.
-1.4 Après si il vous montre "Found leftover files and folders", clique sur "Select All" puis sur "Delete" et Finish et c'est bon.
-
 ### Instructions Simplifiées pour Désinstaller un Programme
 
 1. **Accéder au Dossier "1. Uninstaller"**
