@@ -1,4 +1,5 @@
 ```
+Tutoriel fait maison
 Redémarre ton pc que à la fin de la manipulation.
 ```
 ### 1) Désinstaller le Programme
@@ -30,6 +31,9 @@ Redémarre ton pc que à la fin de la manipulation.
      - Cliquez sur **Select All**.
      - Cliquez sur **Delete**, puis sur **Finish**.
 
+
+
+
 ### 2) Changement des Serial
 
 #### 1. Accéder au Dossier "2. Serial Changer"
@@ -60,3 +64,26 @@ Redémarre ton pc que à la fin de la manipulation.
    - Dans l'onglet "Sécurité", sélectionnez "Tous les packages d'application".
    - Cochez "Refuser" pour "Contrôle total" et "Lecture".
    - Répétez cette opération pour chaque appareil en vert.
+
+
+
+
+#### 3) Changement des Serial sur la carte mère (Dépend des PC - Facultatif)
+
+1. Ouvrez le dossier "3. Compatible MotherBoard".
+2. Lancez l'application "DMIEDIT".
+
+#### 2. Modifier les Séries
+1. À gauche, vous verrez une grande liste de tours de PC.
+2. Cliquez sur chaque élément de la liste (pas besoin d'appuyer sur le "+").
+3. Recherchez "Serial Number".
+   - Quand vous trouvez un "Serial Number", double-cliquez sur la troisième case à côté (exemple: Serial Number | String | nombrelettreetc).
+   - Changez la troisième valeur :
+     - Si ce sont des chiffres, remplacez par des chiffres.
+     - Si ce sont des lettres, remplacez par des lettres.
+     - Si ce sont des chiffres et des lettres, mélangez les deux.
+4. Répétez cette opération pour chaque "Serial Number".
+
+#### 3. Sauvegarder et Redémarrer
+1. Cliquez en haut à gauche sur "Update" puis sur "All".
+2. Redémarrez votre PC.
