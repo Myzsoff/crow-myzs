@@ -1,5 +1,5 @@
 ```
-Tutoriel fait maison
+Installe le dossier qui est dans les releases (à ta droite).
 Redémarre ton pc que à la fin de la manipulation.
 ```
 ### 1) Désinstaller le Programme
@@ -36,8 +36,8 @@ Redémarre ton pc que à la fin de la manipulation.
 
 ### 2) Changement des Serial
 
-#### 1. Accéder au Dossier "2. Serial Changer"
-1. **Démarrer CRU**
+1. Accéder au Dossier "2. Serial Changer"
+1.1 **Démarrer CRU**
    - Ouvrez l'application "CRU".
    - Cliquez sur le bouton "Edit..." en haut à droite.
    - Remplacez l'ID dans "ID serial #:" par des chiffres aléatoires.
@@ -53,12 +53,12 @@ Redémarre ton pc que à la fin de la manipulation.
    - Cochez "Use '02' as first octet of MAC address".
    - Cliquez sur "Random MAC Address" puis sur "Change Now!".
 
-#### 2. Modifier les Autorisations USB
-1. **Lancer USBDeview**
+4. **Modifier les Autorisations USB**
+4.1 **Lancer USBDeview**
    - Ouvrez le dossier "USB" et lancez "USBDeview".
    - Faites un clic droit sur un appareil en vert et sélectionnez "Open in RegEdit".
 
-2. **Changer les Autorisations**
+4.2 **Changer les Autorisations**
    - Dans l'éditeur de registre, faites un clic droit sur le dossier sélectionné à gauche.
    - Sélectionnez "Autorisations".
    - Dans l'onglet "Sécurité", sélectionnez "Tous les packages d'application".
@@ -68,22 +68,22 @@ Redémarre ton pc que à la fin de la manipulation.
 
 
 
-#### 3) Changement des Serial sur la carte mère (Dépend des PC - Facultatif)
+### 3) Changement des Serial sur la carte mère (Dépend des PC - Facultatif)
 
 1. Ouvrez le dossier "3. Compatible MotherBoard".
-2. Lancez l'application "DMIEDIT".
+1.1 Lancez l'application "DMIEDIT".
 
-#### 2. Modifier les Séries
-1. À gauche, vous verrez une grande liste de tours de PC.
-2. Cliquez sur chaque élément de la liste (pas besoin d'appuyer sur le "+").
-3. Recherchez "Serial Number".
+2. Modifier les Séries
+2.2 À gauche, vous verrez une grande liste de tours de PC.
+2.3 Cliquez sur chaque élément de la liste (pas besoin d'appuyer sur le "+").
+   4 Recherchez "Serial Number".
    - Quand vous trouvez un "Serial Number", double-cliquez sur la troisième case à côté (exemple: Serial Number | String | nombrelettreetc).
    - Changez la troisième valeur :
      - Si ce sont des chiffres, remplacez par des chiffres.
      - Si ce sont des lettres, remplacez par des lettres.
      - Si ce sont des chiffres et des lettres, mélangez les deux.
-4. Répétez cette opération pour chaque "Serial Number".
+2.4 Répétez cette opération pour chaque "Serial Number".
 
-#### 3. Sauvegarder et Redémarrer
-1. Cliquez en haut à gauche sur "Update" puis sur "All".
-2. Redémarrez votre PC.
+3. Sauvegarder et Redémarrer
+3.1 Cliquez en haut à gauche sur "Update" puis sur "All".
+3.2 Redémarrez votre PC.
