@@ -80,9 +80,7 @@ Redémarre ton pc que à la fin de la manipulation.
    4 Recherchez "Serial Number".
    - Quand vous trouvez un "Serial Number", double-cliquez sur la troisième case à côté (exemple: Serial Number | String | nombrelettreetc).
    - Changez la troisième valeur :
-     - Si ce sont des chiffres, remplacez par des chiffres.
-     - Si ce sont des lettres, remplacez par des lettres.
-     - Si ce sont des chiffres et des lettres, mélangez les deux.
+     - Remplacez par des chiffres.
 2.4 Répétez cette opération pour chaque "Serial Number".
 
 3. Sauvegarder et Redémarrer
