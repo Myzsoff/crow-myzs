@@ -1,3 +1,4 @@
+N'hésite pas à mettre une star sur ce github.
 ```
 Installe le dossier qui est dans les releases (à ta droite).
 Redémarre ton pc que à la fin de la manipulation.
