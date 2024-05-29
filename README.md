@@ -56,7 +56,7 @@ Redémarre ton pc que à la fin de la manipulation.
 
 4. **Modifier les Autorisations USB**
 4.1 **Lancer USBDeview**
-   - Ouvrez le dossier "USB" et lancez "USBDeview".
+   - Ouvrez le dossier "USB" et lancez "USBDeview" en administrateur.
    - Faites un clic droit sur un appareil en vert et sélectionnez "Open in RegEdit".
 
 4.2 **Changer les Autorisations**
